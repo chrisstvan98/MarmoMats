@@ -1,4 +1,6 @@
-# MarmoMats - Texture Importer for Marmoset Toolbag 5
+# MarmoMats
+
+## Texture Importer for Marmoset Toolbag 5
 
 Automatically sets up materials with textures based on a simple naming convention. This plugin processes all materials in your scene and automatically assigns matching texture files.
 
